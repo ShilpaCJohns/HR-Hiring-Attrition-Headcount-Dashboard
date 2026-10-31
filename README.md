@@ -47,7 +47,7 @@ This dashboard aims to help HR professionals:
 
 ## 6. Dashboard Preview
 
-![HR Dashboard Preview](HR%20Monthly%20Dashboard.jpeg)
+![HR Dashboard Preview](./HR%20Monthly%20Dashboard.jpeg)
 
 ## 7. Project Files
 
